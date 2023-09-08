@@ -1,0 +1,18 @@
+{
+    "require": {
+        "illuminate/view": "*",
+        "illuminate/config": "*",
+        "illuminate/translation": "*",
+        "symfony/var-dumper": "^5.4",
+        "illuminate/database": "*",
+        "illuminate/cache": "*",
+        "illuminate/pagination": "^10.20",
+        "illuminate/hashing": "^10.20",
+        "illuminate/validation": "^10.20"
+    },
+    "autoload": {
+        "psr-4": {
+            "Koding\\": "src/"
+        }
+    }
+}

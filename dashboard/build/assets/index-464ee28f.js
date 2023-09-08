@@ -1,0 +1,1 @@
+import{_ as o,r as t,c as n,a,w as r,b as s,o as c,d as l}from"./app-f88b26b7.js";const _={name:"index"},d=s("h1",null,"Hello World",-1);function i(p,u,f,m,x,h){const e=t("router-link");return c(),n("div",null,[d,a(e,{to:"/"},{default:r(()=>[l("Go to Foo")]),_:1})])}const $=o(_,[["render",i]]);export{$ as default};
